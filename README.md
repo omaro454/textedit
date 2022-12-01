@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Text Editor PWA
 
 ## Description
 
@@ -44,14 +44,18 @@ THEN I should have proper build scripts for a webpack application
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Questions](#questions)
+- [Screenshots] (#screenshots)
+- [Contact Information](#contactinfo)
 
 ## Installation
 
 'npm i' in a Terminal to install packages.
 
-## Questions
+## Screenshots
+
+![Screenshot](/Develop/client/src/images/screeno.png "Screenshot")
+
+## Contact Information
 
 GitHub username: Omaro454
 
