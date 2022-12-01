@@ -53,7 +53,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshots
 
-![Screenshot](/Develop/client/src/images/screeno.png "Screenshot")
+![Screenshot](./Develop/client/src/images/screeno.png)
 
 ## Contact Information
 
