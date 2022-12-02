@@ -50,10 +50,11 @@ THEN I should have proper build scripts for a webpack application
 ## Installation
 
 'npm i' in a Terminal to install packages.
+'npm start' to run server.
 
 ## Screenshots
 
-![Screenshot](./Develop/client/src/images/screeno.png)
+![Screenshot](./assets/screeno.png)
 
 ## Contact Information
 
