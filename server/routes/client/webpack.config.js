@@ -26,10 +26,10 @@ module.exports = () => {
         template: "./index.html",
         favicon: "./favicon.ico",
       }),
-      new MiniCssExtractPlugin(),
-      new InjectManifest({
-        swSrc: "./src-sw.js",
-      }),
+      // new MiniCssExtractPlugin(),
+      // new InjectManifest({
+      //   swSrc: "./src-sw.js",
+      // }),
       new WebpackPwaManifest({
         filename: "manifest.json",
         name: "Just Another Text Editor",
@@ -61,7 +61,7 @@ module.exports = () => {
       rules: [
         {
           test: /\.css$/i,
-          use: [MiniCssExtractPlugin.loader, "css-loader"],
+          use: ['style-loader', 'css-loader'],
         },
         {
           test: /\.js$/,
